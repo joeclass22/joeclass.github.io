@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Joe Class"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Joe Class"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "UCLA"
   uri              : # URL
   email            : "none@example.org" 
 
