@@ -12,7 +12,7 @@ title                    : "Joe Class"
 title_separator          : "-"
 name                     : &name "Joe Class"
 description              : &description "Linguistics PhD Student"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://joeclass22.github.io/joeclass.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joeclass.github.io"
 
