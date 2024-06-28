@@ -7,4 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% include archive-single-presentations.html %}
+{% for post in site.presentations reversed %}
+  {% include archive-single-presentations.html %}
+{% endfor %}
+
